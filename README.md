@@ -10,7 +10,7 @@
 ### UNAVAILABLE REQUIRES A SERVER
 ## Getting Started
 - clone the repository by running\
-    `git https://github.com/aimemalaika/blog.git`
+    `git https://github.com/sangwa7/blog.git`
 - navigate to the folder\
     `cd blog`
 - Install packages\
